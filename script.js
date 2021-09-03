@@ -1,0 +1,1 @@
+document.getElementsByTagName('<h1>').innerHTML = 'Hello from JS'
